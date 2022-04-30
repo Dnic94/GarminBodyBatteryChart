@@ -138,8 +138,7 @@ def main(args):
                 else:
                     chart = np.concatenate(
                         (chart, month_chart), axis=month_direction
-                    )  # Append the month to the right
-                    # chart = np.concatenate((chart, month_chart), axis=0)  # Append the new Month to the bottom
+                    )
 
                 week_counter = 0
                 month_chart = None

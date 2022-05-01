@@ -10,7 +10,7 @@ Little dirty script to create a multi day chart from various screenshots of the 
 showing the Body Battery screen.
 """
 
-__author__ = "Dominic Schwarz <dominic.schwarz@dnic42.de>"
+__author__ = "Dominic Schwarz (@Dnic94 <github@dnic42.de>)"
 __created__ = "2022-04-30"
 
 ########################################################################################################################

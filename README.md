@@ -11,3 +11,4 @@ optional arguments:
                         Directory containing the screenshots.
 
 
+Dominic Schwarz (@Dnic94 <github@dnic42.de>)
